@@ -4,14 +4,7 @@
   "country": "US",
   "description": "Web crawler for Apple products like Siri and Spotlight Suggestions.",
   "id": "Applebot",
-  "known_cidrs": [
-    "17.58.96.0/24",
-    "17.58.97.0/24",
-    "17.58.98.0/24",
-    "17.58.99.0/24",
-    "17.58.100.0/24",
-    "17.58.101.0/24"
-  ],
+  "known_cidrs": ["17.58.96.0/22", "17.58.100.0/23"],
   "last_updated": "2020-08-06",
   "robotstxt": "yes",
   "type": 2,
