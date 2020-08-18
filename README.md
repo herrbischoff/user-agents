@@ -53,12 +53,11 @@ cat /var/log/nginx/* | awk -F\" '{print $6}' | sort -u > uas.txt
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-The data is completely free for personal, non-commercial usage, including free
-and open source projects. If you plan to include it in a product you earn money
-on or use for infrastructure you earn money with, I welcome your decision.
-However, you will need to license it by becoming a permanent [top-tier GitHub
-sponsor][sponsor]. If this is too steep for you, [let me know][email] and we'll
-talk.
+The data is completely free for personal, non-commercial usage, including FOSS 
+projects. If you plan to include it in a product you earn money on or use for 
+infrastructure you earn money with, I welcome your decision. However, you will 
+need to license it by becoming a permanent [top-tier GitHub sponsor][sponsor]. 
+If this is too steep for you, [let me know][email] and we'll talk.
 
 [jq]: https://stedolan.github.io/jq/
 [semver]: https://semver.org
