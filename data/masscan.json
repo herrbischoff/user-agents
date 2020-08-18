@@ -1,0 +1,16 @@
+{
+  "category": 8,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Internet-scale port scanner.",
+  "id": "masscan",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["masscan/1.0 (https://github.com/robertdavidgraham/masscan)"],
+  "website": {
+    "reachable": true,
+    "url": "https://github.com/robertdavidgraham/masscan"
+  }
+}

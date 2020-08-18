@@ -1,0 +1,18 @@
+{
+  "category": 1,
+  "comments": "Claims to respect robots.txt but ignores it.",
+  "country": "IR",
+  "description": "Identifies technologies used on websites.",
+  "id": "SMTBot",
+  "known_cidrs": ["34.234.54.252/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36 (compatible; SMTBot/1.0; +http://www.similartech.com/smtbot)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.similartech.com/smtbot"
+  }
+}

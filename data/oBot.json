@@ -1,0 +1,27 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "DE",
+  "description": "",
+  "id": "oBot",
+  "known_cidrs": [
+    "194.153.113.13/32",
+    "194.153.113.35/32",
+    "194.153.113.101/32",
+    "194.153.113.222/32",
+    "206.253.224.14/32",
+    "206.253.224.76/32",
+    "206.253.226.8/32",
+    "206.253.226.12/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; oBot/2.3.1; http://www.xforce-security.com/crawler/)"
+  ],
+  "website": {
+    "reachable": false,
+    "url": "http://www.xforce-security.com/crawler/"
+  }
+}

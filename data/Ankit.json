@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "",
+  "description": "Probably malware. Sends exclusively \"POST /cgi-bin/ViewLog.asp HTTP/1.1\" requests.",
+  "id": "Ankit",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["Ankit"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

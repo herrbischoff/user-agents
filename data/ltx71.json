@@ -1,0 +1,16 @@
+{
+  "category": 8,
+  "comments": "",
+  "country": "US",
+  "description": "Security research crawler.",
+  "id": "ltx71",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["ltx71 - (http://ltx71.com/)"],
+  "website": {
+    "reachable": true,
+    "url": "http://ltx71.com/"
+  }
+}

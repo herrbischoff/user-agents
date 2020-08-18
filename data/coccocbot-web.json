@@ -1,0 +1,25 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "VN",
+  "description": "Vietnamese search engine.",
+  "id": "coccocbot-web",
+  "known_cidrs": [
+    "103.131.71.90/31",
+    "103.131.71.94/32",
+    "103.131.71.96/31",
+    "103.131.71.99/32",
+    "103.131.71.105/32",
+    "103.131.71.106/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://help.coccoc.com/searchengine"
+  }
+}

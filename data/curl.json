@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Command line tool and library for transferring data with URLs.",
+  "id": "curl",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["curl/7.70.0"],
+  "website": {
+    "reachable": true,
+    "url": "https://curl.haxx.se"
+  }
+}

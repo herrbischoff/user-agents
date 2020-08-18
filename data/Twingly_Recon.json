@@ -1,0 +1,24 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "SE",
+  "description": "Social data mining company.",
+  "id": "Twingly Recon",
+  "known_cidrs": [
+    "46.246.64.21/32",
+    "178.73.212.120/30",
+    "178.73.212.124/32",
+    "131:2a00:1a28:2101:1::16/128"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Twingly Recon; twingly.com)",
+    "Twingly Recon"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://www.twingly.com"
+  }
+}

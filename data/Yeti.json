@@ -1,0 +1,24 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "KO",
+  "description": "Korean search engine Naver.",
+  "id": "Yeti",
+  "known_cidrs": [
+    "125.209.235.168/32",
+    "125.209.235.174/32",
+    "125.209.235.176/32",
+    "125.209.235.180/31",
+    "125.209.235.183/32",
+    "125.209.235.185/32",
+    "125.209.235.186/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["Mozilla/5.0 (compatible; Yeti/1.1; +http://naver.me/spd)"],
+  "website": {
+    "reachable": true,
+    "url": "http://naver.me/spd"
+  }
+}

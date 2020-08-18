@@ -1,0 +1,18 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "GB",
+  "description": "Automated process expanding links mentioned in certain content.",
+  "id": "TweetmemeBot",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": [
+    "Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://datasift.com/bot.html"
+  }
+}

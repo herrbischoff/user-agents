@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "",
+  "description": "",
+  "id": "finbot",
+  "known_cidrs": ["213.61.218.52/32", "213.61.218.57/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "unknown",
+  "type": 99,
+  "user_agents": ["finbot"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

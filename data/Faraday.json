@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Ruby HTTP client library.",
+  "id": "Faraday",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["Faraday v0.15.4"],
+  "website": {
+    "reachable": true,
+    "url": "https://lostisland.github.io/faraday/"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "US",
+  "description": "Crawler for Google Images.",
+  "id": "Googlebot-Image",
+  "known_cidrs": [
+    "66.249.64.0/24",
+    "66.249.65.0/24",
+    "66.249.66.0/24",
+    "66.249.70.0/24",
+    "66.249.73.0/24",
+    "66.249.75.0/24",
+    "66.249.76.0/24",
+    "66.249.79.0/24"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": ["Googlebot-Image/1.0"],
+  "website": {
+    "reachable": true,
+    "url": "http://www.google.com/bot.html"
+  }
+}

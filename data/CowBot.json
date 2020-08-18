@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "FR",
+  "description": "",
+  "id": "CowBot",
+  "known_cidrs": ["90.92.119.203/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 99,
+  "user_agents": ["CowBot/1.0"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

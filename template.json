@@ -1,0 +1,16 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "",
+  "description": "",
+  "id": "",
+  "known_cidrs": [],
+  "last_updated": "2020-01-01",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

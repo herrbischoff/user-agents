@@ -1,0 +1,20 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "US",
+  "description": "AdIdxBot is the crawler used by Bing Ads. AdIdxBot is responsible for crawling ads and following through to websites from those ads for quality control purposes. Same as Bingbot, AdIdxBot has both desktop and mobile variants.",
+  "id": "bingbot",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; adidxbot/2.0; +http://www.bing.com/bingbot.htm)",
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; adidxbot/2.0; +http://www.bing.com/bingbot.htm)",
+    "Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 530) like Gecko (compatible; adidxbot/2.0; +http://www.bing.com/bingbot.htm)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.bing.com/bingbot.htm"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "category": 3,
+  "comments": "Ignores robots.txt, because \"Over time we have observed that the robots.txt files that are geared toward search engine crawlers do not necessarily serve our archival purposes.\" (Source: https://blog.archive.org/2017/04/17/robots-txt-meant-for-search-engines-dont-work-well-for-web-archives)",
+  "country": "US",
+  "description": "Archive.org Wayback Machine crawler.",
+  "id": "archive.org_bot",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.archive.org/details/archive.org_bot"
+  }
+}

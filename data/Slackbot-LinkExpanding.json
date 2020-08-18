@@ -1,0 +1,35 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "US",
+  "description": "This robot responds to links that Slack users post into their channels. It fetches as little of the page as it can (using HTTP Range headers) to extract meta tags about the content. ",
+  "id": "Slackbot-LinkExpanding",
+  "known_cidrs": [
+    "3.80.128.216/32",
+    "3.81.53.73/32",
+    "3.82.216.153/32",
+    "3.84.220.185/32",
+    "18.207.199.64/32",
+    "18.212.145.19/32",
+    "34.227.227.77/32",
+    "52.55.228.155/32",
+    "52.55.245.215/32",
+    "52.91.46.10/32",
+    "54.85.48.10/32",
+    "54.89.162.56/32",
+    "54.91.215.122/32",
+    "54.173.211.45/32",
+    "54.198.53.243/32",
+    "54.198.237.22/32",
+    "54.208.176.63/32",
+    "107.22.128.166/32"
+  ],
+  "last_updated": "2020-08-07",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)"],
+  "website": {
+    "reachable": true,
+    "url": "https://api.slack.com/robots"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "US",
+  "description": "",
+  "id": "DF Bot",
+  "known_cidrs": ["52.53.183.113/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["DF Bot 1.0"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

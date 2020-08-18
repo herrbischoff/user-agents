@@ -1,0 +1,19 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "US",
+  "description": "Feedfetcher is how Google grabs RSS or Atom feeds for Google Play Newsstand and PubSubHubbub.",
+  "id": "FeedFetcher-Google",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": [
+    "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)",
+    "Mozilla/5.0 (compatible) Feedfetcher-Google; (+http://www.google.com/feedfetcher.html)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.google.com/feedfetcher.html"
+  }
+}

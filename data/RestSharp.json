@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "If you don't publish an API, this client has no business visiting a production website.",
+  "country": "ZZ",
+  "description": "REST API client library for .NET.",
+  "id": "RestSharp",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["RestSharp/105.2.3.0"],
+  "website": {
+    "reachable": true,
+    "url": "https://restsharp.dev"
+  }
+}

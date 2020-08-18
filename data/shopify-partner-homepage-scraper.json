@@ -1,0 +1,31 @@
+{
+  "category": 99,
+  "comments": "Verified with Shopify that this is not affiliated or even authorized by them. All IPs are Google Cloud instances.",
+  "country": "US",
+  "description": "",
+  "id": "shopify-partner-homepage-scraper",
+  "known_cidrs": [
+    "34.66.135.62/32",
+    "34.66.255.220/32",
+    "34.67.219.227/32",
+    "35.184.195.253/32",
+    "35.188.171.24/32",
+    "35.193.187.253/32",
+    "35.222.74.74/32",
+    "35.224.133.40/32",
+    "35.224.145.53/32",
+    "35.232.22.138/32",
+    "35.232.69.250/32",
+    "35.239.34.248/32",
+    "35.239.231.14/32",
+    "104.154.111.4/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["shopify-partner-homepage-scraper"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

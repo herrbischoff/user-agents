@@ -1,0 +1,18 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "GB",
+  "description": "Company search engine.",
+  "id": "aiHitBot",
+  "known_cidrs": ["78.129.240.214/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; aiHitBot/2.9; +https://www.aihitdata.com/about)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://www.aihitdata.com/about"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "category": 8,
+  "comments": "",
+  "country": "US",
+  "description": "Let's Encrypt certification authority. You probably initiated this yourself. Does not need to adhere to robots.txt since it's just verifying the domain to issue a TLS certificate, which is generally a user-initiated action.",
+  "id": "Let's Encrypt validation server",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://www.letsencrypt.org"
+  }
+}

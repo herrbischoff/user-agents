@@ -1,0 +1,26 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "US",
+  "description": "Web crawler for Apple products like Siri and Spotlight Suggestions.",
+  "id": "Applebot",
+  "known_cidrs": [
+    "17.58.96.0/24",
+    "17.58.97.0/24",
+    "17.58.98.0/24",
+    "17.58.99.0/24",
+    "17.58.100.0/24",
+    "17.58.101.0/24"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebot/0.1; +http://www.apple.com/go/applebot)",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.apple.com/go/applebot"
+  }
+}

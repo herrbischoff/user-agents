@@ -1,0 +1,22 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Oracle Java built-in HTTP client library.",
+  "id": "Java",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": [
+    "Java/1.8.0_211",
+    "Java/10",
+    "Java/11.0.3",
+    "Java/14.0.1",
+    "Java/9.0.1"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://www.java.com/en/"
+  }
+}

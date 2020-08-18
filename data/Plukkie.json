@@ -1,0 +1,18 @@
+{
+  "category": 0,
+  "comments": "Bad search results, apparently abandoned.",
+  "country": "NL",
+  "description": "Indexer for search engine botje.com.",
+  "id": "Plukkie",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Plukkie/1.6; http://www.botje.com/plukkie.htm)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.botje.com/plukkie.htm"
+  }
+}

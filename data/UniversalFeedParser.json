@@ -1,0 +1,18 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Parse feeds in Python.",
+  "id": "UniversalFeedParser",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": [
+    "UniversalFeedParser/5.2.1 +https://code.google.com/p/feedparser/"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://github.com/kurtmckee/feedparser"
+  }
+}

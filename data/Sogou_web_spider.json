@@ -1,0 +1,36 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "CN",
+  "description": "Chinese search engine operated by Tencent.",
+  "id": "Sogou web spider",
+  "known_cidrs": [
+    "49.7.20.69/32",
+    "49.7.20.125/32",
+    "49.7.21.80/31",
+    "49.7.21.90/31",
+    "49.7.21.117/32",
+    "58.250.125.6/32",
+    "58.250.125.68/32",
+    "58.250.125.74/32",
+    "58.250.125.86/32",
+    "58.250.125.89/32",
+    "58.250.125.105/32",
+    "58.250.125.131/32",
+    "111.202.100.82/32",
+    "111.202.101.66/32",
+    "111.202.103.114/32",
+    "123.183.224.30/32",
+    "123.183.224.98/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.sogou.com/docs/help/webmasters.htm#07"
+  }
+}

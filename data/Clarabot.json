@@ -1,0 +1,18 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "HU",
+  "description": "",
+  "id": "Clarabot",
+  "known_cidrs": ["37.17.172.154/31"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 99,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Clarabot/1.4; +http://www.clarabot.info/bots)"
+  ],
+  "website": {
+    "reachable": false,
+    "url": "http://www.clarabot.info/bots"
+  }
+}

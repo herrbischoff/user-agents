@@ -1,0 +1,16 @@
+{
+  "category": 2,
+  "comments": "Offer a complete dataset in exchange for your personal data.",
+  "country": "US",
+  "description": "Internet-wide crawl of ads.txt files.",
+  "id": "adstxt.com",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["adstxt.com/1.2"],
+  "website": {
+    "reachable": true,
+    "url": "https://www.adstxt.com"
+  }
+}

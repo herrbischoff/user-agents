@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "",
+  "description": "",
+  "id": "gobyus",
+  "known_cidrs": ["46.34.229.106/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["gobyus"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

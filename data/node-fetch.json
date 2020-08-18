@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "A light-weight module that brings window.fetch to Node.js.",
+  "id": "node-fetch",
+  "known_cidrs": [],
+  "last_updated": "2020-08-12",
+  "robotstxt": "yes",
+  "type": 1,
+  "user_agents": ["node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"],
+  "website": {
+    "reachable": true,
+    "url": "https://github.com/node-fetch/node-fetch"
+  }
+}

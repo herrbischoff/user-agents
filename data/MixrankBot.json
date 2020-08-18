@@ -1,0 +1,16 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "US",
+  "description": "Business intelligence platform.",
+  "id": "MixrankBot",
+  "known_cidrs": ["66.231.185.72/32", "66.231.185.74/31"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": ["Mozilla/5.0 (compatible; MixrankBot; crawler@mixrank.com)"],
+  "website": {
+    "reachable": true,
+    "url": "https://mixrank.com"
+  }
+}

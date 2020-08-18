@@ -1,0 +1,18 @@
+{
+  "category": 8,
+  "comments": "",
+  "country": "US",
+  "description": "Cloud-based content filter service.",
+  "id": "LightspeedSystemsCrawler",
+  "known_cidrs": ["52.36.251.200/32", "207.200.8.182/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "LightspeedSystemsCrawler Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://www.lightspeedsystems.com"
+  }
+}

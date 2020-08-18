@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "IE",
+  "description": "",
+  "id": "TprAdsTxtCrawler",
+  "known_cidrs": ["34.250.9.32/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["TprAdsTxtCrawler/1.0"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

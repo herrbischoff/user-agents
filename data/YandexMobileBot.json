@@ -1,0 +1,27 @@
+{
+  "category": 0,
+  "comments": "Downloads robots.txt but sometimes ignores it.",
+  "country": "RU",
+  "description": "Major Russian search engine.",
+  "id": "YandexMobileBot",
+  "known_cidrs": [
+    "5.255.253.0/24",
+    "37.9.113.0/24",
+    "87.250.224.93/32",
+    "95.108.181.0/24",
+    "141.8.189.0/24",
+    "178.154.171.0/24",
+    "178.154.200.0/24",
+    "213.180.203.0/24"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safari/600.1.4 (compatible; YandexMobileBot/3.0; +http://yandex.com/bots)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://yandex.com/bots"
+  }
+}

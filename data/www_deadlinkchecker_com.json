@@ -1,0 +1,18 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "GB",
+  "description": "Dead Link Checker crawls through your website, identifying broken links for you to correct.",
+  "id": "www.deadlinkchecker.com",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": [
+    "www.deadlinkchecker.com Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://www.deadlinkchecker.com"
+  }
+}

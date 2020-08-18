@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "Apparently belongs to site who.is but it's unclear what it does.",
+  "country": "US",
+  "description": "",
+  "id": "Who.is Bot",
+  "known_cidrs": ["54.208.201.249/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["Who.is Bot"],
+  "website": {
+    "reachable": true,
+    "url": "https://who.is"
+  }
+}

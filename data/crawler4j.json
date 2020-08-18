@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Open Source Web Crawler for Java.",
+  "id": "crawler4j",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["crawler4j (https://github.com/yasserg/crawler4j/)"],
+  "website": {
+    "reachable": true,
+    "url": "https://github.com/yasserg/crawler4j/"
+  }
+}

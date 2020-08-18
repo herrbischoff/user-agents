@@ -1,0 +1,22 @@
+{
+  "category": 99,
+  "comments": "IPs appear to be exclusively AWS instances.",
+  "country": "US",
+  "description": "",
+  "id": "Cloud mapping experiment",
+  "known_cidrs": [
+    "34.238.165.239/32",
+    "54.165.231.250/32",
+    "54.224.3.45/32",
+    "107.22.195.49/32",
+    "184.73.42.24/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["Cloud mapping experiment. Contact research@pdrlabs.net"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

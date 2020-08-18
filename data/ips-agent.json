@@ -1,0 +1,26 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "RU",
+  "description": "",
+  "id": "ips-agent",
+  "known_cidrs": [
+    "69.58.178.28/32",
+    "69.58.178.57/32",
+    "69.58.178.58/31",
+    "72.13.46.2/31",
+    "72.13.46.5/32",
+    "72.13.46.6/32",
+    "72.13.62.25/32",
+    "72.13.62.26/31",
+    "72.13.62.43/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "unknown",
+  "type": 99,
+  "user_agents": ["Mozilla/5.0 (compatible; ips-agent)"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

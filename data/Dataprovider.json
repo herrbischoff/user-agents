@@ -1,0 +1,16 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "NL",
+  "description": "At Dataprovider.com we use our own in-house developed spider to analyze domains.",
+  "id": "Dataprovider",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["Mozilla/5.0 (compatible; Dataprovider.com)"],
+  "website": {
+    "reachable": true,
+    "url": "https://www.dataprovider.com/spider/"
+  }
+}

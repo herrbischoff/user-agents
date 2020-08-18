@@ -1,0 +1,24 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "US",
+  "description": "",
+  "id": "IndeedBot",
+  "known_cidrs": [
+    "173.244.209.229/32",
+    "173.244.209.230/32",
+    "174.127.90.42/32",
+    "174.127.90.45/32",
+    "209.95.51.171/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": [
+    "Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0 (IndeedBot 1.1)"
+  ],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

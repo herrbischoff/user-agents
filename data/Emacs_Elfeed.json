@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Emacs web feeds client.",
+  "id": "Emacs Elfeed",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["Emacs Elfeed 3.3.0"],
+  "website": {
+    "reachable": true,
+    "url": "https://github.com/skeeto/elfeed"
+  }
+}

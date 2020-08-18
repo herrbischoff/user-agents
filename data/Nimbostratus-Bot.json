@@ -1,0 +1,24 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "US",
+  "description": "",
+  "id": "Nimbostratus-Bot",
+  "known_cidrs": [
+    "209.17.96.74/32",
+    "209.17.96.178/32",
+    "209.17.96.202/32",
+    "209.17.97.74/32",
+    "209.17.97.122/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://cloudsystemnetworks.com"
+  }
+}

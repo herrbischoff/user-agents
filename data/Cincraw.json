@@ -1,0 +1,18 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "JP",
+  "description": "Japanese company performing unexplained actions on website data.",
+  "id": "Cincraw",
+  "known_cidrs": ["150.95.176.184/32", "168:2400:8500:1302:840:150:95:176/128"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Cincraw/1.0; +http://cincrawdata.net/bot/)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://cincrawdata.net/bot/"
+  }
+}

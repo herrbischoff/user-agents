@@ -1,0 +1,36 @@
+{
+  "category": 5,
+  "comments": "",
+  "country": "US",
+  "description": "Intellectual Property and \"Brand Protection\" company.",
+  "id": "CheckMarkNetwork",
+  "known_cidrs": [
+    "3.17.161.171/32",
+    "3.123.33.168/32",
+    "18.179.51.181/32",
+    "18.179.55.43/32",
+    "18.217.211.104/32",
+    "18.220.239.10/32",
+    "34.220.230.46/32",
+    "34.243.242.196/32",
+    "34.244.223.6/32",
+    "34.250.48.152/32",
+    "34.251.26.131/32",
+    "35.166.210.110/32",
+    "52.78.217.184/32",
+    "52.79.175.126/32",
+    "52.79.249.53/32",
+    "52.214.20.217/32",
+    "54.154.184.90/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.checkmarknetwork.com/spider.html"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "US",
+  "description": "",
+  "id": "The Knowledge AI",
+  "known_cidrs": [
+    "64.62.252.174/32",
+    "66.160.140.179/32",
+    "66.160.140.183/32",
+    "66.160.140.188/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 99,
+  "user_agents": ["The Knowledge AI"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

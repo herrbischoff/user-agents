@@ -1,0 +1,28 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "CN",
+  "description": "Chinese search engine operated by Huawei.",
+  "id": "AspiegelBot",
+  "known_cidrs": [
+    "114.119.160.0/24",
+    "114.119.161.0/24",
+    "114.119.162.0/24",
+    "114.119.163.0/24",
+    "114.119.164.0/24",
+    "114.119.165.0/24",
+    "114.119.166.0/24",
+    "114.119.167.0/24"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible;AspiegelBot)",
+    "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; AspiegelBot)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://aspiegel.com/about"
+  }
+}

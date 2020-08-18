@@ -1,0 +1,19 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "UA",
+  "description": "World's single largest Internet domains dataset.",
+  "id": "Domains Project",
+  "known_cidrs": ["82.193.104.168/32", "82.193.117.90/32e"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Domains Project/1.1.0; +https://domainsproject.org)",
+    "Mozilla/5.0 (compatible; Domains Project/1.0.4; +https://github.com/tb0hdan/domains)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://domainsproject.org"
+  }
+}

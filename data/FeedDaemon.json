@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Internal RSS service of AVM Fritz!Box devices.",
+  "id": "FeedDaemon",
+  "known_cidrs": [],
+  "last_updated": "2020-08-07",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["FeedDaemon FRITZ!OS/07.12 Linux/2.6.39.3"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "US",
+  "description": "Alexa bot, used to be for Wayback Machine of Archive.org.",
+  "id": "ia_archiver",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["ia_archiver"],
+  "website": {
+    "reachable": true,
+    "url": "https://support.alexa.com/hc/en-us/articles/200450194-Alexa-s-Web-and-Site-Audit-Crawlers"
+  }
+}

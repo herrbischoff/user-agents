@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "US",
+  "description": "",
+  "id": "OnalyticaBot",
+  "known_cidrs": ["3.250.191.128/32", "34.251.221.95/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["OnalyticaBot"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

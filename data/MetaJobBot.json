@@ -1,0 +1,18 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "DE",
+  "description": "METAJob is a search engine with which you can search through all job advertisements available on the Internet.",
+  "id": "",
+  "known_cidrs": ["136.243.83.49", "136.243.83.54"],
+  "last_updated": "2020-08-18",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; MetaJobBot; https://www.metajob.de/crawler)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://www.metajob.de/crawler"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "",
+  "description": "",
+  "id": "BananaBot",
+  "known_cidrs": [
+    "52.201.217.210/32",
+    "52.203.195.106/32",
+    "54.197.137.211/32",
+    "54.234.235.34/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["BananaBot/0.6.1"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

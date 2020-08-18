@@ -1,0 +1,18 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "MT",
+  "description": "The world's leading uptime monitoring service.",
+  "id": "UptimeRobot",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": [
+    "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.uptimerobot.com/"
+  }
+}

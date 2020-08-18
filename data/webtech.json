@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "",
+  "description": "",
+  "id": "webtech",
+  "known_cidrs": ["109.69.66.105/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["webtech/1.2.8"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

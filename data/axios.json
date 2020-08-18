@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Promise based HTTP client for the browser and node.js.",
+  "id": "axios",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["axios/0.19.0"],
+  "website": {
+    "reachable": true,
+    "url": "https://github.com/axios/axios"
+  }
+}

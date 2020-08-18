@@ -1,0 +1,16 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "DE",
+  "description": "German website indexer.",
+  "id": "netEstate NE Crawler",
+  "known_cidrs": ["81.209.177.145/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["netEstate NE Crawler (+http://www.website-datenbank.de/)"],
+  "website": {
+    "reachable": true,
+    "url": "http://www.website-datenbank.de/"
+  }
+}

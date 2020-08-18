@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "HTTP/1.1 compliant HTTP agent implementation based on HttpCore.",
+  "id": "Apache-HttpClient",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["Apache-HttpClient/4.5.12 (Java/14.0.1)"],
+  "website": {
+    "reachable": true,
+    "url": "https://hc.apache.org/httpcomponents-asyncclient-dev/"
+  }
+}

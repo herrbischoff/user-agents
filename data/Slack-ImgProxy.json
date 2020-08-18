@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "US",
+  "description": "This robot is used to fetch and cache images posted into Slack channels. Proxying images in this way allows us to hide detailed referrer information (which can include team and/or project names), ensure these images are served over HTTPS, and improve performance.",
+  "id": "Slack-ImgProxy",
+  "known_cidrs": [],
+  "last_updated": "2020-08-07",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["Slack-ImgProxy 0.19 (+https://api.slack.com/robots)"],
+  "website": {
+    "reachable": true,
+    "url": "https://api.slack.com/robots"
+  }
+}

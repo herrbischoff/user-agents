@@ -1,0 +1,18 @@
+{
+  "category": 1,
+  "comments": "Claims to respect robots.txt but does not.",
+  "country": "US",
+  "description": "WebTechBot is a WebTechSurvey robot that crawls the internet, indexes web page information and collects web technology information detected on the websites.",
+  "id": "webtechbot",
+  "known_cidrs": ["76.217.31.195/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; webtechbot; +https://www.webtechsurvey.com/bot)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://webtechsurvey.com/bot"
+  }
+}

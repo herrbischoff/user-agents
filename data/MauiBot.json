@@ -1,0 +1,28 @@
+{
+  "category": 99,
+  "comments": "All IPs are AWS instances.",
+  "country": "US",
+  "description": "",
+  "id": "MauiBot",
+  "known_cidrs": [
+    "3.83.18.86/32",
+    "34.203.29.65/32",
+    "35.153.33.154/32",
+    "52.86.134.90/32",
+    "52.91.120.239/32",
+    "54.89.30.124/32",
+    "54.89.118.239/32",
+    "54.144.240.191/32",
+    "54.234.58.225/32",
+    "54.236.54.41/32",
+    "100.27.11.202/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 99,
+  "user_agents": ["MauiBot (crawler.feedback+wc@gmail.com)"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

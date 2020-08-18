@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "The framework actually recommends changing the user agent.",
+  "country": "ZZ",
+  "description": "Scraping framework for Python.",
+  "id": "Scrapy",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "unknown",
+  "type": 1,
+  "user_agents": ["Scrapy/1.7.2 (+https://scrapy.org)"],
+  "website": {
+    "reachable": true,
+    "url": "https://scrapy.org"
+  }
+}

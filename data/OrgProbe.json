@@ -1,0 +1,21 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "GB",
+  "description": "Checks if a site is being blocked by running tests on major fixed line ISPs and mobile networks.",
+  "id": "OrgProbe",
+  "known_cidrs": [
+    "81.129.94.255/32",
+    "82.5.212.236/32",
+    "85.211.27.197/32",
+    "94.10.56.203/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["OrgProbe/2.0.0 (+http://www.blocked.org.uk)"],
+  "website": {
+    "reachable": true,
+    "url": "http://www.blocked.org.uk"
+  }
+}

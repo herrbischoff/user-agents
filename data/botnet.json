@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "",
+  "description": "Malware trying to infect MIPS platforms.",
+  "id": "botnet",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["botnet/2.0"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

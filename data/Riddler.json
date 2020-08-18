@@ -1,0 +1,16 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "",
+  "description": "Online research project which investigates algorithms for mapping the topology of the Internet. Riddler collects data about public systems via crawling and port mapping common ports.",
+  "id": "Riddler",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["Riddler (http://riddler.io/about)"],
+  "website": {
+    "reachable": true,
+    "url": "http://riddler.io/about"
+  }
+}

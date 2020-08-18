@@ -1,0 +1,17 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "",
+  "description": "Malware attempting to compromize Boaform.",
+  "http_requests": ["POST /boaform/admin/formPing HTTP/1.1"],
+  "id": "polaris botnet",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["polaris botnet"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

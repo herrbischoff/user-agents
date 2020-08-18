@@ -1,0 +1,18 @@
+{
+  "category": 3,
+  "comments": "Heritrix is an open source web crawler designed for web archiving. It was written by the Internet Archive.",
+  "country": "ZZ",
+  "description": "",
+  "id": "heritrix",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; heritrix/3.4.0-20200304 +http://hbi640.ir/)"
+  ],
+  "website": {
+    "reachable": false,
+    "url": "http://hbi640.ir/"
+  }
+}

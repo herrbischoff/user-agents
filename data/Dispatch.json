@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Scala wrapper for the Java AsyncHttpClient.",
+  "id": "Dispatch",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["Dispatch/0.14.0-SNAPSHOT"],
+  "website": {
+    "reachable": true,
+    "url": "https://dispatchhttp.org/"
+  }
+}

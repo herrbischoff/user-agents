@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "DE",
+  "description": "",
+  "id": "VsuSearchSpider",
+  "known_cidrs": ["79.197.104.113/32", "93.238.192.91/32", "93.238.207.10/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 99,
+  "user_agents": ["VsuSearchSpider/1.0"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

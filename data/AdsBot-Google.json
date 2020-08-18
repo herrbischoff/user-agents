@@ -1,0 +1,19 @@
+{
+  "category": 2,
+  "comments": "The user agent is not listed on the information website but originates from Google and clears reverse DNS checks.",
+  "country": "US",
+  "description": "Checks desktop web page ad quality.",
+  "id": "AdsBot-Google",
+  "known_cidrs": ["66.249.83.197/32", "66.249.83.217/32"],
+  "last_updated": "2020-08-16",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "AdsBot-Google (+http://www.google.com/adsbot.html)",
+    "Google-Adwords-Instant (+http://www.google.com/adsbot.html)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.google.com/adsbot.html"
+  }
+}

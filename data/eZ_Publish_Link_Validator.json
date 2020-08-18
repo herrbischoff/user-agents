@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Part of the eZ Publishing Platform by Ibexa.",
+  "id": "eZ Publish Link Validator",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["eZ Publish Link Validator"],
+  "website": {
+    "reachable": true,
+    "url": "https://www.ibexa.co"
+  }
+}

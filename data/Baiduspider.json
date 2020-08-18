@@ -1,0 +1,24 @@
+{
+  "category": 0,
+  "comments": "Major Chinese search engine. Ignores robots.txt despite them claiming otherwise.",
+  "country": "CN",
+  "description": "Major Chinese search engine. Ignores robots.txt despite them claiming otherwise.",
+  "id": "Baiduspider",
+  "known_cidrs": [
+    "116.179.32.26/32",
+    "116.179.32.35/32",
+    "159.138.8.25/32",
+    "173.82.227.106/32",
+    "220.181.108.178/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.baidu.com/search/spider.html"
+  }
+}

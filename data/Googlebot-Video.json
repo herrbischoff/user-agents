@@ -1,0 +1,16 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "US",
+  "description": "Crawler for Google Video.",
+  "id": "Googlebot-Video",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["Googlebot-Video/1.0"],
+  "website": {
+    "reachable": true,
+    "url": "http://www.google.com/bot.html"
+  }
+}

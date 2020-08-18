@@ -1,0 +1,26 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "US",
+  "description": "AI-driven relationship intelligence platform.",
+  "id": "AccompanyBot",
+  "known_cidrs": [
+    "104.243.199.133/32",
+    "104.243.195.69/32",
+    "142.252.78.22/32",
+    "142.252.77.217/32",
+    "142.252.78.151/32",
+    "198.240.123.28/32",
+    "207.188.146.30/32",
+    "207.188.150.36/32",
+    "207.188.160.38/32",
+    "207.188.146.144/32"
+  ],
+  "last_updated": "2020-08-06",
+  "type": 0,
+  "user_agents": ["AccompanyBot"],
+  "website": {
+    "reachable": true,
+    "url": "https://www.accompany.com"
+  }
+}

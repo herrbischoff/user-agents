@@ -1,0 +1,26 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "US",
+  "description": "Business intelligence company.",
+  "id": "VelenPublicWebCrawler",
+  "known_cidrs": [
+    "35.206.154.90/32",
+    "35.210.4.104/32",
+    "35.210.53.213/32",
+    "35.210.112.68/32",
+    "35.210.207.166/32",
+    "35.210.215.110/32",
+    "35.210.220.237/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; VelenPublicWebCrawler/1.0; +https://velen.io)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://hunter.io/robot"
+  }
+}

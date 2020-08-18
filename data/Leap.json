@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "DK",
+  "description": "",
+  "id": "Leap",
+  "known_cidrs": ["85.191.202.86/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["Leap"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

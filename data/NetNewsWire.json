@@ -1,0 +1,18 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Open source RSS feed reader for macOS and iOS.",
+  "id": "NetNewsWire",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": [
+    "NetNewsWire (RSS Reader; https://ranchero.com/netnewswire/)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://ranchero.com/netnewswire/"
+  }
+}

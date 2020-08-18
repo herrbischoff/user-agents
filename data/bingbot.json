@@ -1,0 +1,28 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "US",
+  "description": "The Microsoft Bing search engine.",
+  "id": "bingbot",
+  "known_cidrs": [
+    "13.66.139.1/32",
+    "13.77.138.186/32",
+    "40.77.167.0/24",
+    "73.169.246.233/32",
+    "78.49.22.8/32",
+    "131.107.159.187/32",
+    "157.55.39.0/24",
+    "207.46.13.0/24"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.bing.com/bingbot.htm"
+  }
+}

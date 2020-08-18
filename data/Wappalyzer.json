@@ -1,0 +1,21 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "AU",
+  "description": "\"Technographics\" data provider, uncovering technologies such as content management systems, customer relationship management, ecommerce platforms, advertising networks, marketing tools and analytics.",
+  "id": "Wappalyzer",
+  "known_cidrs": [
+    "15.206.2.37/32",
+    "15.206.184.22/32",
+    "15.206.190.234/32",
+    "52.39.57.227/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": ["Mozilla/5.0 (compatible; Wappalyzer)"],
+  "website": {
+    "reachable": true,
+    "url": "https://www.wappalyzer.com"
+  }
+}

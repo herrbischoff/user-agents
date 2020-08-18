@@ -1,0 +1,18 @@
+{
+  "category": 1,
+  "comments": "Despite claiming otherwise, it does not respect robots.txt exclusions.",
+  "country": "DE",
+  "description": "A project of the Natural Language Processing Group of the University of Leipzig. The LCC offers access to monolingual dictionaries in more than 200 languages.",
+  "id": "LCC",
+  "known_cidrs": ["139.18.2.214/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "LCC (+http://corpora.informatik.uni-leipzig.de/crawler_faq.html)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://corpora.informatik.uni-leipzig.de/crawler_faq.html"
+  }
+}

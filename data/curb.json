@@ -1,0 +1,23 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "US",
+  "description": "",
+  "id": "curb",
+  "known_cidrs": [
+    "3.86.243.43/32",
+    "18.206.186.145/32",
+    "18.234.220.150/32",
+    "54.89.190.25/32",
+    "54.90.215.28/32",
+    "54.197.93.179/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["curb"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}

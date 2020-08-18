@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "Part of the online publishing infrastructure of german public broadcaster Südwestrundfunk.",
+  "country": "DE",
+  "description": "",
+  "id": "SWRLinkchecker",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["SWRLinkchecker"],
+  "website": {
+    "reachable": true,
+    "url": "https://www.swr.de"
+  }
+}

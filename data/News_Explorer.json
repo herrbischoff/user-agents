@@ -1,0 +1,19 @@
+{
+  "category": 9,
+  "comments": "",
+  "country": "ZZ",
+  "description": "",
+  "id": "News Explorer",
+  "known_cidrs": [],
+  "last_updated": "2020-08-18",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": [
+    "News%20Explorer/253 CFNetwork/1128.0.1 Darwin/19.6.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/604.4.7 (KHTML, like Gecko) News Explorer/1.9"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://betamagic.nl/products/newsexplorer.html"
+  }
+}

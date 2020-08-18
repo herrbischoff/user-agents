@@ -1,0 +1,23 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "",
+  "description": "",
+  "id": "KOCMOHABT",
+  "known_cidrs": [
+    "3.21.241.33/32",
+    "3.133.12.122/32",
+    "107:2600:1900:2000:9::24/128",
+    "152:2600:1900:2000:9::5/128"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": [
+    "KOCMOHABT (https://kozmonavt.tk/) Mozilla/5.0 (Web Explorer)"
+  ],
+  "website": {
+    "reachable": false,
+    "url": "https://kozmonavt.tk/"
+  }
+}

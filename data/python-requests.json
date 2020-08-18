@@ -1,0 +1,20 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "HTTP library for Python.",
+  "id": "python-requests",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": [
+    "python-requests/1.2.3 CPython/2.7.16 Linux/4.14.165-102.185.amzn1.x86_64",
+    "python-requests/2.21.0",
+    "python-requests/2.6.0 CPython/2.6.6 Linux/2.6.32-754.31.1.el6.x86_64"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://2.python-requests.org/en/master/"
+  }
+}

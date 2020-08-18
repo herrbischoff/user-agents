@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Lua HTTP client cosocket driver for OpenResty / ngx_lua.",
+  "id": "lua-resty-http",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["lua-resty-http/0.10 (Lua) ngx_lua/10000"],
+  "website": {
+    "reachable": true,
+    "url": "https://github.com/ledgetech/lua-resty-http"
+  }
+}

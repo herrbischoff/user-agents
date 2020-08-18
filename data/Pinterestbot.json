@@ -1,0 +1,18 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "US",
+  "description": "Pinterest crawls liked sites for signals that enable them to infer better recommendations, fight spam, and display useful information.",
+  "id": "Pinterestbot",
+  "known_cidrs": ["54.236.1.11/32", "54.236.1.12/31"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Pinterestbot/1.0; +http://www.pinterest.com/bot.html)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.pinterest.com/bot.html"
+  }
+}

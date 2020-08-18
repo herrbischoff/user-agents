@@ -1,0 +1,16 @@
+{
+  "category": 7,
+  "comments": "Claims to respect robots.txt but generally ignores it.",
+  "country": "CZ",
+  "description": "Content marketing company.",
+  "id": "Semtix.cz",
+  "known_cidrs": ["40.113.99.245/32", "137.116.216.84/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": ["Semtix.cz <https://semtix.cz/bot>"],
+  "website": {
+    "reachable": true,
+    "url": "https://semtix.cz/bot"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Peer-to-Peer web search engine.",
+  "id": "yacybot",
+  "known_cidrs": ["45.88.3.24/32", "134.119.54.21/32", "204.122.16.6/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "yacybot (/global; amd64 FreeBSD 13.0-CURRENT; java 1.8.0_192; GMT/en) http://yacy.net/bot.html",
+    "yacybot (/global; amd64 Linux 5.7.4; java 1.8.0_201; America/en) http://yacy.net/bot.html",
+    "yacybot (/global; amd64 Windows 10 10.0; java 1.8.0_241; Asia/ru) http://yacy.net/bot.html"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://yacy.net/bot.html"
+  }
+}

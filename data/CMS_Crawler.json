@@ -1,0 +1,16 @@
+{
+  "category": 1,
+  "comments": "They sell lists of who uses what technology on their websites.",
+  "country": "SE",
+  "description": "Commercial technology insights company.",
+  "id": "CMS Crawler",
+  "known_cidrs": ["83.233.207.74/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": ["Mozilla/4.0 (CMS Crawler: http://www.cmscrawler.com)"],
+  "website": {
+    "reachable": true,
+    "url": "http://www.cmscrawler.com"
+  }
+}

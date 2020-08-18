@@ -1,0 +1,20 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Built-in Python HTTP library.",
+  "id": "Python-urllib",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": [
+    "Python-urllib/1.17",
+    "Python-urllib/2.7",
+    "Python-urllib/3.8"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://docs.python.org/3/library/urllib.request.html#module-urllib.request"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "DE",
+  "description": "Search engine for translations in context.",
+  "id": "Linguee Bot",
+  "known_cidrs": ["85.25.218.169/32", "85.25.237.101/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["Linguee Bot (http://www.linguee.com/bot; bot@linguee.com)"],
+  "website": {
+    "reachable": true,
+    "url": "http://www.linguee.com/bot"
+  }
+}

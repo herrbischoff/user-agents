@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "US",
+  "description": "This is our default, does everything, kitchen sink robot. Anytime we need to make an HTTP request that is not covered by the above, we use this robot. Examples would include making API requests for services we integrate with or sending Outgoing Webhooks that users have configured on their teams.",
+  "id": "Slackbot",
+  "known_cidrs": [],
+  "last_updated": "2020-08-07",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["Slackbot 1.0(+https://api.slack.com/robots)"],
+  "website": {
+    "reachable": true,
+    "url": "https://api.slack.com/robots"
+  }
+}

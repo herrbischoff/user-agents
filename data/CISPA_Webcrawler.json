@@ -1,0 +1,18 @@
+{
+  "category": 8,
+  "comments": "",
+  "country": "DE",
+  "description": "Security vulnerability scanner of the German Helmholtz-Zentrum for Information Security.",
+  "id": "CISPA Webcrawler",
+  "known_cidrs": ["134.96.225.55/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "CISPA Webcrawler (https://vuln-notify-checker.cispa.saarland)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://vuln-notify-checker.cispa.saarland"
+  }
+}

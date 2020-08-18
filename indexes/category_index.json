@@ -1,0 +1,13 @@
+{
+  "Search": 0,
+  "Data Mining": 1,
+  "Advertising": 2,
+  "Archival": 3,
+  "Automation": 4,
+  "Legal": 5,
+  "Malware": 6,
+  "SEO": 7,
+  "Security": 8,
+  "Feeds": 9,
+  "Suspicious": 99
+}

@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "GB",
+  "description": "",
+  "id": "GarlikCrawler",
+  "known_cidrs": ["185.26.92.74/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 99,
+  "user_agents": ["GarlikCrawler/1.2 (http://garlik.com/, crawler@garlik.com)"],
+  "website": {
+    "reachable": false,
+    "url": "http://garlik.com/"
+  }
+}

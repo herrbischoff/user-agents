@@ -1,0 +1,18 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Broken link checking software.",
+  "id": "Integrity",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Integrity/8; +https://peacockmedia.software/mac/integrity/"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://peacockmedia.software/mac/integrity/"
+  }
+}

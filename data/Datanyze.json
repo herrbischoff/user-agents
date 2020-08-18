@@ -1,0 +1,25 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "US",
+  "description": "\"Technographics\" and \"Data Enrichment\" company.",
+  "id": "Datanyze",
+  "known_cidrs": [
+    "138.197.64.39/32",
+    "142.93.76.125/32",
+    "142.93.184.162/32",
+    "159.203.85.194/32",
+    "165.227.210.170/32",
+    "167.71.182.120/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://www.datanyze.com"
+  }
+}

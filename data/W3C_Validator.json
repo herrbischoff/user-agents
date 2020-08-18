@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "Does not need to respect robots.txt since the request is always user-initiated.",
+  "country": "US",
+  "description": "W3C validation services.",
+  "id": "W3C_Validator",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["W3C_Validator/1.3 http://validator.w3.org/services"],
+  "website": {
+    "reachable": true,
+    "url": "http://validator.w3.org/services"
+  }
+}

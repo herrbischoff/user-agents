@@ -1,0 +1,18 @@
+{
+  "category": 8,
+  "comments": "",
+  "country": "DE",
+  "description": "Internet-wide research study being conducted by computer scientists at RWTH Aachen University.",
+  "id": "Researchscan",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": [
+    "Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12sns; +http://researchscan.comsys.rwth-aachen.de)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://researchscan.comsys.rwth-aachen.de"
+  }
+}

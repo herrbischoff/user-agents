@@ -1,0 +1,20 @@
+{
+  "category": 4,
+  "comments": "Usually up to no good unless you explicitly host downloads that are to be automatically retrieved.",
+  "country": "ZZ",
+  "description": "Free software package for retrieving files using HTTP, HTTPS, FTP and FTPS.",
+  "id": "Wget",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": [
+    "Wget/1.19.1 (darwin16.6.0)",
+    "Wget/1.20 (mingw32)",
+    "Wget/1.20.1 (linux-gnu)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://www.gnu.org/software/wget/"
+  }
+}

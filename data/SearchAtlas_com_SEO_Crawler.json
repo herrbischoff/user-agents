@@ -1,0 +1,22 @@
+{
+  "category": 7,
+  "comments": "",
+  "country": "US",
+  "description": "SEO company.",
+  "id": "SearchAtlas.com SEO Crawler",
+  "known_cidrs": [
+    "139.178.68.146/32",
+    "147.75.97.94/32",
+    "147.75.97.98/32",
+    "147.75.97.166/32",
+    "147.75.197.242/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["SearchAtlas.com SEO Crawler"],
+  "website": {
+    "reachable": true,
+    "url": "https://www.searchatlas.com"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "category": 7,
+  "comments": "It's a SEO company.",
+  "country": "US",
+  "description": "SEMrushBot is the search bot software that SEMrush sends out to discover and collect new and updated web data.",
+  "id": "SemrushBot",
+  "known_cidrs": [
+    "46.229.168.131/32",
+    "46.229.168.134/31",
+    "46.229.168.139/32",
+    "46.229.168.140/31",
+    "46.229.168.145/32",
+    "46.229.168.147/32",
+    "46.229.168.148/30",
+    "46.229.168.163/32",
+    "85.208.96.4/31",
+    "85.208.96.14/32",
+    "85.208.96.17/32",
+    "85.208.96.65/32",
+    "85.208.96.66/31",
+    "85.208.96.68/30"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; SemrushBot-BA; +http://www.semrush.com/bot.html)",
+    "Mozilla/5.0 (compatible; SemrushBot/1.0~bm; +http://www.semrush.com/bot.html)",
+    "Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.semrush.com/bot.html"
+  }
+}

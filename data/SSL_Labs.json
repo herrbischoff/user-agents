@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "US",
+  "description": "SSL Labs (this web site) is a non-commercial research effort, run by Qualys, to better understand how SSL, TLS, and PKI technologies are used in practice. Since 2009, we have been working on tools and documentation to assist system owners assess, troubleshoot, and improve their usage of SSL. We have also worked very hard to promote the importance of properly configured SSL servers for security.",
+  "id": "SSL Labs",
+  "known_cidrs": ["64.41.200.106/32"],
+  "last_updated": "2020-08-18",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["SSL Labs (https://www.ssllabs.com/about/assessment.html)"],
+  "website": {
+    "reachable": true,
+    "url": "https://www.ssllabs.com/about/assessment.html"
+  }
+}

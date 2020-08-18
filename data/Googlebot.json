@@ -1,0 +1,20 @@
+{
+  "category": 0,
+  "comments": "",
+  "country": "US",
+  "description": "Google search engine crawler.",
+  "id": "Googlebot",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.98 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/79.0.3945.120 Safari/537.36"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://www.google.com/bot.html"
+  }
+}

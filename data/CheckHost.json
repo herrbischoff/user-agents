@@ -1,0 +1,32 @@
+{
+  "category": 4,
+  "comments": "Suspect if you didn't set this up yourself.",
+  "country": "ZZ",
+  "description": "Website monitoring service.",
+  "id": "CheckHost",
+  "known_cidrs": [
+    "45.91.250.221/32",
+    "88.119.179.10/32",
+    "93.170.128.167/32",
+    "94.154.1.7/32",
+    "172.246.126.50/32",
+    "178.17.171.235/32",
+    "185.25.204.60/32",
+    "185.29.8.135/32",
+    "185.105.238.209/32",
+    "185.159.82.88/32",
+    "185.209.161.169/32",
+    "192.157.233.160/32",
+    "193.187.152.50/32",
+    "195.123.211.84/32",
+    "198.56.183.15/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["CheckHost (https://check-host.net/)"],
+  "website": {
+    "reachable": true,
+    "url": "https://check-host.net/"
+  }
+}

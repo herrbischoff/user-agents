@@ -1,0 +1,18 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "US",
+  "description": "Crawls the web looking for corporate information, such as company names, addresses, executive biographies, job openings and product information. Also crawls the web to locate genealogy pages, such as birth, marriage and death records, obituaries and census records.",
+  "id": "Panscient",
+  "known_cidrs": ["72.79.58.112/32"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; Panscient/1.0; +http://panscient.com/faq.htm)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://panscient.com/faq.htm"
+  }
+}

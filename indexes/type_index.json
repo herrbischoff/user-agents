@@ -1,0 +1,6 @@
+{
+  "Bot": 0,
+  "Software": 1,
+  "Crawler": 2,
+  "Unknown": 99
+}

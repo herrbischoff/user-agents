@@ -1,0 +1,31 @@
+{
+  "category": 8,
+  "comments": "",
+  "country": "US",
+  "description": "\"Safe browsing\" company.",
+  "id": "SurdotlyBot",
+  "known_cidrs": [
+    "3.84.225.48/32",
+    "3.85.124.187/32",
+    "18.212.215.221/32",
+    "18.232.169.49/32",
+    "18.234.65.58/32",
+    "34.234.70.40/32",
+    "52.6.80.58/32",
+    "54.87.142.29/32",
+    "54.152.99.65/32",
+    "54.173.52.218/32",
+    "54.236.21.134/32",
+    "54.237.195.169/32"
+  ],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; SurdotlyBot/1.0; +http://sur.ly/bot.html)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "http://sur.ly/bot.html"
+  }
+}

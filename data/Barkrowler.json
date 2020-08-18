@@ -1,0 +1,16 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "FR",
+  "description": "French company specializing in large scale text data analysis.",
+  "id": "Barkrowler",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["Barkrowler/0.9 (+http://www.exensa.com/crawl)"],
+  "website": {
+    "reachable": true,
+    "url": "http://www.exensa.com/crawl/"
+  }
+}

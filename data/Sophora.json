@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "DE",
+  "description": "Part of the Sophora CMS system.",
+  "id": "Sophora",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["Mozilla/5.0 (compatible; Sophora; http://www.subshell.com)"],
+  "website": {
+    "reachable": true,
+    "url": "http://www.subshell.com"
+  }
+}

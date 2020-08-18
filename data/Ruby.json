@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "Usually used by lazy scanners (script kiddies) and automated probing for obvious vulnerabilities.",
+  "country": "ZZ",
+  "description": "Ruby built-in HTTP library.",
+  "id": "Ruby",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["Ruby"],
+  "website": {
+    "reachable": true,
+    "url": "https://ruby-doc.org/stdlib-2.7.1/libdoc/net/http/rdoc/Net/HTTP.html"
+  }
+}

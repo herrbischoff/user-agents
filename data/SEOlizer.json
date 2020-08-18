@@ -1,0 +1,18 @@
+{
+  "category": 7,
+  "comments": "Does not even request robots.txt and admits to it on the linked website.",
+  "country": "DE",
+  "description": "Our SEOLizer bots search the internet for any kind of website. Our database already contains more than 105 million websites and the number is increasing every day.",
+  "id": "SEOlizer",
+  "known_cidrs": ["104.248.129.60/32"],
+  "last_updated": "2020-08-18",
+  "robotstxt": "no",
+  "type": 2,
+  "user_agents": [
+    "SEOlizer/1.1 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13 (+https://www.seolizer.de/bot.html)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://www.seolizer.de/bot.html"
+  }
+}

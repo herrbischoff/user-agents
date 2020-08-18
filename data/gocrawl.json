@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Polite, slim and concurrent web crawler.",
+  "id": "gocrawl",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "yes",
+  "type": 1,
+  "user_agents": ["Googlebot (gocrawl v0.4)"],
+  "website": {
+    "reachable": true,
+    "url": "https://github.com/PuerkitoBio/gocrawl"
+  }
+}

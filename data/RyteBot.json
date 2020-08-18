@@ -1,0 +1,16 @@
+{
+  "category": 7,
+  "comments": "",
+  "country": "DE",
+  "description": "SEO company.",
+  "id": "RyteBot",
+  "known_cidrs": [],
+  "last_updated": "2020-08-06",
+  "robotstxt": "unknown",
+  "type": 2,
+  "user_agents": ["RyteBot/1.0.0 (+https://bot.ryte.com/)"],
+  "website": {
+    "reachable": true,
+    "url": "https://en.ryte.com/bot/"
+  }
+}

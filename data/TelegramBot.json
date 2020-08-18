@@ -1,0 +1,16 @@
+{
+  "category": 4,
+  "comments": "",
+  "country": "GB",
+  "description": "Bots running on the Telegram network.",
+  "id": "TelegramBot",
+  "known_cidrs": ["149.154.161.0/24"],
+  "last_updated": "2020-08-06",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["TelegramBot (like TwitterBot)"],
+  "website": {
+    "reachable": true,
+    "url": "https://telegram.org"
+  }
+}
