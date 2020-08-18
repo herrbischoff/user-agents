@@ -1,0 +1,25 @@
+{
+  "category": 99,
+  "comments": "Bot of unknown origin requesting mainly non-existing URLs.",
+  "country": "",
+  "description": "",
+  "id": "Photon",
+  "known_cidrs": [
+    "195.234.109.12/32",
+    "195.234.109.60/32",
+    "195.234.109.80/32",
+    "195.234.109.118/32",
+    "195.234.109.128/32",
+    "195.234.109.132/32",
+    "195.234.109.176/32",
+    "195.234.109.188/32"
+  ],
+  "last_updated": "2020-08-18",
+  "robotstxt": "no",
+  "type": 99,
+  "user_agents": ["Photon/1.0"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}
