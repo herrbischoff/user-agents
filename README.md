@@ -47,7 +47,10 @@ cat /var/log/nginx/* | awk -F\" '{print $6}' | sort -u > uas.txt
 * If there are multiple mostly identical user agent strings for an entry,
   restrict to one example per major [semantic version][semver].
 * All array entries are sorted, alphabetically and numerically.
-* If `country` does not apply or is international, use country code `ZZ`.
+* If `country` does not apply or is international, use `"ZZ"` and `null` when 
+  not applicable.
+* `null` is to be interpreted as "not applicable" or "unknown", depending on 
+  context.
 
 ## License
 
