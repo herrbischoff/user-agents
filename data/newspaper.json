@@ -6,7 +6,11 @@
   "id": "newspaper",
   "known_cidrs": [],
   "last_updated": "2020-08-22",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 0,
   "user_agents": ["newspaper/0.2.8"],
   "website": {

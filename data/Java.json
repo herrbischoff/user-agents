@@ -6,7 +6,11 @@
   "id": "Java",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": null
+  },
   "type": 1,
   "user_agents": [
     "Java/1.8.0_211",

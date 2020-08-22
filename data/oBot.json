@@ -15,7 +15,11 @@
     "206.253.226.12/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 99,
   "user_agents": [
     "Mozilla/5.0 (compatible; oBot/2.3.1; http://www.xforce-security.com/crawler/)"

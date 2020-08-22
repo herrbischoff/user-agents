@@ -6,7 +6,11 @@
   "id": "Researchscan",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 0,
   "user_agents": [
     "Mozilla/5.0 zgrab/0.x (compatible; Researchscan/t12sns; +http://researchscan.comsys.rwth-aachen.de)"

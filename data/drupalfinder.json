@@ -1,12 +1,16 @@
 {
   "category": 99,
   "comments": "",
-  "country": "",
+  "country": null,
   "description": "",
   "id": "drupalfinder",
   "known_cidrs": ["108.61.179.128/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 99,
   "user_agents": [
     "drupalfinder1 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"

@@ -6,7 +6,11 @@
   "id": "Screaming Frog SEO Spider",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 1,
   "user_agents": ["Screaming Frog SEO Spider/13.0"],
   "website": {

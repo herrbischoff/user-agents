@@ -6,7 +6,11 @@
   "id": "Slack-ImgProxy",
   "known_cidrs": [],
   "last_updated": "2020-08-07",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 0,
   "user_agents": ["Slack-ImgProxy 0.19 (+https://api.slack.com/robots)"],
   "website": {

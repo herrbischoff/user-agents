@@ -14,7 +14,11 @@
     "35.210.220.237/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; VelenPublicWebCrawler/1.0; +https://velen.io)"

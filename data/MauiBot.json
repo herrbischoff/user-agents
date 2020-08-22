@@ -18,7 +18,11 @@
     "100.27.11.202/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 99,
   "user_agents": ["MauiBot (crawler.feedback+wc@gmail.com)"],
   "website": {

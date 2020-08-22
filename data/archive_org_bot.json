@@ -6,7 +6,11 @@
   "id": "archive.org_bot",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)"

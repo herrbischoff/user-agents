@@ -6,7 +6,11 @@
   "id": "TelegramBot",
   "known_cidrs": ["149.154.161.0/24"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 0,
   "user_agents": ["TelegramBot (like TwitterBot)"],
   "website": {

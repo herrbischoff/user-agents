@@ -1,12 +1,16 @@
 {
   "category": 0,
   "comments": "",
-  "country": "",
+  "country": null,
   "description": "Generic search engine based in Germany.",
   "id": "Seekport Crawler",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "unknown",
+  "robotstxt": {
+    "downloads": null,
+    "respects": null,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; Seekport Crawler; http://seekport.com/"

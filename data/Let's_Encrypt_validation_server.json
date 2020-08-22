@@ -6,7 +6,11 @@
   "id": "Let's Encrypt validation server",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": false
+  },
   "type": 0,
   "user_agents": [
     "Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)"

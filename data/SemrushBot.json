@@ -21,7 +21,11 @@
     "85.208.96.68/30"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; SemrushBot-BA; +http://www.semrush.com/bot.html)",

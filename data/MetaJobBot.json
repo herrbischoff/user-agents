@@ -6,7 +6,11 @@
   "id": "",
   "known_cidrs": ["136.243.83.49", "136.243.83.54"],
   "last_updated": "2020-08-18",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; MetaJobBot; https://www.metajob.de/crawler)"

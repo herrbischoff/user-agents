@@ -6,7 +6,11 @@
   "id": "MegaIndex.ru",
   "known_cidrs": ["5.9.98.130/32"],
   "last_updated": "2020-08-18",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)"

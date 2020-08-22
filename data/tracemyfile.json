@@ -6,7 +6,11 @@
   "id": "tracemyfile",
   "known_cidrs": ["34.90.107.7/32", "34.90.173.191/32", "91.106.199.104/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; tracemyfile/1.0; +bot@tracemyfile.com)"

@@ -6,7 +6,11 @@
   "id": "masscan",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": false
+  },
   "type": 1,
   "user_agents": ["masscan/1.0 (https://github.com/robertdavidgraham/masscan)"],
   "website": {

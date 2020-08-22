@@ -15,7 +15,11 @@
     "66.249.79.0/24"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["Googlebot-Image/1.0"],
   "website": {

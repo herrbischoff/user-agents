@@ -6,7 +6,11 @@
   "id": "Internet-structure-research-project-bot",
   "known_cidrs": ["213.159.213.137/32", "213.159.213.236/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 99,
   "user_agents": ["Internet-structure-research-project-bot"],
   "website": {

@@ -6,7 +6,11 @@
   "id": "Tiny Tiny RSS",
   "known_cidrs": [],
   "last_updated": "2020-08-22",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": false
+  },
   "type": 1,
   "user_agents": ["Tiny Tiny RSS/18.8 (5f66f87) (http://tt-rss.org/)"],
   "website": {

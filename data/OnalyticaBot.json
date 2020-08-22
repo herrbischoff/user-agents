@@ -6,7 +6,11 @@
   "id": "OnalyticaBot",
   "known_cidrs": ["3.250.191.128/32", "34.251.221.95/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 99,
   "user_agents": ["OnalyticaBot"],
   "website": {

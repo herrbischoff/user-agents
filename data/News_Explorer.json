@@ -6,7 +6,11 @@
   "id": "News Explorer",
   "known_cidrs": [],
   "last_updated": "2020-08-18",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": false
+  },
   "type": 1,
   "user_agents": [
     "News%20Explorer/253 CFNetwork/1128.0.1 Darwin/19.6.0",

@@ -50,7 +50,11 @@
     "2a02:6b8:c1f:ea3:0:492c:e99f:0/128"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)",

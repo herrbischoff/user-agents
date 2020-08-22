@@ -6,7 +6,11 @@
   "id": "SSL Labs",
   "known_cidrs": ["64.41.200.106/32"],
   "last_updated": "2020-08-18",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": false
+  },
   "type": 0,
   "user_agents": ["SSL Labs (https://www.ssllabs.com/about/assessment.html)"],
   "website": {

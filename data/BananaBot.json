@@ -1,7 +1,7 @@
 {
   "category": 99,
   "comments": "",
-  "country": "",
+  "country": null,
   "description": "",
   "id": "BananaBot",
   "known_cidrs": [
@@ -11,7 +11,11 @@
     "54.234.235.34/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 99,
   "user_agents": ["BananaBot/0.6.1"],
   "website": {

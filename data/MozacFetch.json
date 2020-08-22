@@ -6,7 +6,11 @@
   "id": "MozacFetch",
   "known_cidrs": [],
   "last_updated": "2020-08-22",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": null
+  },
   "type": 99,
   "user_agents": ["MozacFetch/52.0.3"],
   "website": {

@@ -1,6 +1,6 @@
 {
   "category": 0,
-  "comments": "Chinese search engine operated by Huawei. Downloads robots.txt but ignores it. The broken user agent listed actually appears repeatedly in the wild.",
+  "comments": "Chinese search engine operated by Huawei. The broken user agent listed actually appears repeatedly in the wild.",
   "country": "CN",
   "description": "PetalBot is an automatic program of the Petal search engine. The function of PetalBot is to access both PC and mobile websites and establish an index database which enables users to search the content of your site in Petal search engine. You can identify crawling from Petal by analyzing the User-agent field.",
   "id": "PetalBot",
@@ -17,7 +17,11 @@
     "114.119.167.0/24"
   ],
   "last_updated": "2020-08-16",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "(compatible;PetalBot;+https://aspiegel.com/petalbot)",

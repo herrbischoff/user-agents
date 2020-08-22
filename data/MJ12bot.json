@@ -32,7 +32,11 @@
     "173:2a01:4f9:2a:302::2/128"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)"

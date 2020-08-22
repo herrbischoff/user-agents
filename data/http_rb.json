@@ -6,7 +6,11 @@
   "id": "http.rb",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": null
+  },
   "type": 1,
   "user_agents": ["http.rb/3.3.0", "http.rb/4.2.0", "http.rb/4.4.1"],
   "website": {

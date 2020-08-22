@@ -92,7 +92,11 @@
     "184.72.112.204/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 99,
   "user_agents": ["chimebot"],
   "website": {

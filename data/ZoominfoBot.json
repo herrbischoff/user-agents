@@ -32,7 +32,11 @@
     "104.196.20.47/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["ZoominfoBot (zoominfobot at zoominfo dot com)"],
   "website": {

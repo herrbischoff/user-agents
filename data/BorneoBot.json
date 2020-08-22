@@ -1,7 +1,7 @@
 {
   "category": 99,
   "comments": "No information available. Email address unresponsive.",
-  "country": "",
+  "country": null,
   "description": "",
   "id": "BorneoBot",
   "known_cidrs": [
@@ -11,7 +11,11 @@
     "52.91.104.215/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 99,
   "user_agents": ["BorneoBot/0.9.1 (crawlcheck123@gmail.com)"],
   "website": {

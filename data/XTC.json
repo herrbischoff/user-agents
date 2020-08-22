@@ -1,13 +1,17 @@
 {
   "category": 99,
   "comments": "",
-  "country": "",
+  "country": null,
   "description": "Automated attempt to compromize target system.",
   "http_requests": ["POST /cgi-bin/mainfunction.cgi HTTP/1.1"],
   "id": "XTC",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": null,
+    "respects": null,
+    "should": null
+  },
   "type": 99,
   "user_agents": ["XTC"],
   "website": {

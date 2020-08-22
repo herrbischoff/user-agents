@@ -6,7 +6,11 @@
   "id": "python-requests",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": null,
+    "respects": null,
+    "should": null
+  },
   "type": 1,
   "user_agents": [
     "python-requests/1.2.3 CPython/2.7.16 Linux/4.14.165-102.185.amzn1.x86_64",

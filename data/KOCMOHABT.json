@@ -1,7 +1,7 @@
 {
   "category": 99,
   "comments": "",
-  "country": "",
+  "country": null,
   "description": "",
   "id": "KOCMOHABT",
   "known_cidrs": [
@@ -11,7 +11,11 @@
     "152:2600:1900:2000:9::5/128"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": false,
+    "should": true
+  },
   "type": 99,
   "user_agents": [
     "KOCMOHABT (https://kozmonavt.tk/) Mozilla/5.0 (Web Explorer)"

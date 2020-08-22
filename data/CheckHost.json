@@ -22,7 +22,11 @@
     "198.56.183.15/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": false
+  },
   "type": 0,
   "user_agents": ["CheckHost (https://check-host.net/)"],
   "website": {

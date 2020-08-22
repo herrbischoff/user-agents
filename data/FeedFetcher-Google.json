@@ -6,7 +6,11 @@
   "id": "FeedFetcher-Google",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": false
+  },
   "type": 0,
   "user_agents": [
     "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)",

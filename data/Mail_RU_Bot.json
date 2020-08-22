@@ -1,6 +1,6 @@
 {
   "category": 0,
-  "comments": "The crawler downloads robots.txt but ignores it.",
+  "comments": "",
   "country": "RU",
   "description": "Russian search engine.",
   "id": "Mail.RU_Bot",
@@ -45,7 +45,11 @@
     "95.163.255.245/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)",

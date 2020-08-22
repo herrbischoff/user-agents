@@ -6,7 +6,11 @@
   "id": "Domains Project",
   "known_cidrs": ["82.193.104.168/32", "82.193.117.90/32e"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; Domains Project/1.1.0; +https://domainsproject.org)",

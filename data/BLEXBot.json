@@ -1,12 +1,16 @@
 {
   "category": 7,
   "comments": "",
-  "country": "",
+  "country": null,
   "description": "The BLEXBot crawler is an automated robot that visits pages to examine and analyse the content, in this sense it is similar to the robots used by the major search engine companies.",
   "id": "BLEXBot",
   "known_cidrs": ["46.4.122.146/32", "49.12.131.247/32", "94.130.216.182/32"],
   "last_updated": "2020-08-18",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; BLEXBot/1.0; +http://webmeup-crawler.com/)"

@@ -1,12 +1,16 @@
 {
   "category": 5,
   "comments": "",
-  "country": "",
+  "country": null,
   "description": "Anti-plagiarism service.",
   "id": "Blackboard Safeassign",
   "known_cidrs": ["34.202.93.213/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["Blackboard Safeassign"],
   "website": {

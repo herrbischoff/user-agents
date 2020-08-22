@@ -12,7 +12,11 @@
     "147.75.197.242/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["SearchAtlas.com SEO Crawler"],
   "website": {

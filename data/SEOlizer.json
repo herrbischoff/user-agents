@@ -6,7 +6,11 @@
   "id": "SEOlizer",
   "known_cidrs": ["104.248.129.60/32"],
   "last_updated": "2020-08-18",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "SEOlizer/1.1 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13 (+https://www.seolizer.de/bot.html)"

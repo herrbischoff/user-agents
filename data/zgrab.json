@@ -6,7 +6,11 @@
   "id": "zgrab",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": null,
+    "respects": null,
+    "should": null
+  },
   "type": 1,
   "user_agents": ["Mozilla/5.0 zgrab/0.x"],
   "website": {

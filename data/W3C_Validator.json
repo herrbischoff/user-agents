@@ -6,7 +6,11 @@
   "id": "W3C_Validator",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": false
+  },
   "type": 0,
   "user_agents": ["W3C_Validator/1.3 http://validator.w3.org/services"],
   "website": {

@@ -6,7 +6,11 @@
   "id": "Wget",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": null,
+    "respects": null,
+    "should": null
+  },
   "type": 1,
   "user_agents": [
     "Wget/1.19.1 (darwin16.6.0)",

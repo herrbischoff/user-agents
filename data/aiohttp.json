@@ -6,7 +6,11 @@
   "id": "aiohttp",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": null,
+    "respects": null,
+    "should": null
+  },
   "type": 1,
   "user_agents": ["Python/3.7 aiohttp/3.0.9"],
   "website": {

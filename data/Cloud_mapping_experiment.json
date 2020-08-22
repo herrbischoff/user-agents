@@ -43,7 +43,11 @@
     "213.109.163.124/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": null
+  },
   "type": 99,
   "user_agents": ["Cloud mapping experiment. Contact research@pdrlabs.net"],
   "website": {

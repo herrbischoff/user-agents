@@ -21,7 +21,11 @@
     "216.18.204.155/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": false,
+    "should": true
+  },
   "type": 99,
   "user_agents": ["Mozilla/5.0 (compatible; Adsbot/3.1)"],
   "website": {

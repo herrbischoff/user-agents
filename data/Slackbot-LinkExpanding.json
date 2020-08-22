@@ -25,7 +25,11 @@
     "107.22.128.166/32"
   ],
   "last_updated": "2020-08-07",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 0,
   "user_agents": ["Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)"],
   "website": {

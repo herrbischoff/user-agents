@@ -6,7 +6,11 @@
   "id": "Panscient",
   "known_cidrs": ["72.79.58.112/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; Panscient/1.0; +http://panscient.com/faq.htm)"

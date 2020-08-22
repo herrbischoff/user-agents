@@ -16,7 +16,11 @@
     "72.13.62.43/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "unknown",
+  "robotstxt": {
+    "downloads": null,
+    "respects": null,
+    "should": null
+  },
   "type": 99,
   "user_agents": ["Mozilla/5.0 (compatible; ips-agent)"],
   "website": {

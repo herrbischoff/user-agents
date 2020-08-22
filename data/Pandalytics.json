@@ -31,7 +31,11 @@
     "185.82.127.47/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["Pandalytics/1.0 (https://domainsbot.com/pandalytics/)"],
   "website": {

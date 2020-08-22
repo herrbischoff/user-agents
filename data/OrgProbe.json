@@ -11,7 +11,11 @@
     "94.10.56.203/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 0,
   "user_agents": ["OrgProbe/2.0.0 (+http://www.blocked.org.uk)"],
   "website": {

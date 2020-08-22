@@ -35,7 +35,11 @@
     "100.26.196.123/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["CCBot/2.0 (https://commoncrawl.org/faq/)"],
   "website": {

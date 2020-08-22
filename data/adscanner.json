@@ -1,11 +1,16 @@
 {
   "category": 2,
   "comments": "",
-  "country": "",
+  "country": null,
   "description": "Advertising technology company.",
   "id": "adscanner",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; adscanner/)/1.0 (http://seocompany.store; spider@seocompany.store)"

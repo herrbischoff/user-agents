@@ -11,7 +11,11 @@
     "66.160.140.188/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 99,
   "user_agents": ["The Knowledge AI"],
   "website": {

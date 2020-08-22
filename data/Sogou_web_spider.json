@@ -24,7 +24,11 @@
     "123.183.224.98/32"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)"

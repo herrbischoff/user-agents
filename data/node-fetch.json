@@ -6,7 +6,11 @@
   "id": "node-fetch",
   "known_cidrs": [],
   "last_updated": "2020-08-12",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": null,
+    "respects": null,
+    "should": null
+  },
   "type": 1,
   "user_agents": ["node-fetch/1.0 (+https://github.com/bitinn/node-fetch)"],
   "website": {

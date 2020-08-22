@@ -6,7 +6,11 @@
   "id": "CMS Crawler",
   "known_cidrs": ["83.233.207.74/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["Mozilla/4.0 (CMS Crawler: http://www.cmscrawler.com)"],
   "website": {

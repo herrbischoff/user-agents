@@ -6,7 +6,11 @@
   "id": "AdsBot-Google",
   "known_cidrs": ["66.249.83.197/32", "66.249.83.217/32"],
   "last_updated": "2020-08-16",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "AdsBot-Google (+http://www.google.com/adsbot.html)",

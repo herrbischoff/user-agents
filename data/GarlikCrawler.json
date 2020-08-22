@@ -6,7 +6,11 @@
   "id": "GarlikCrawler",
   "known_cidrs": ["185.26.92.74/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 99,
   "user_agents": ["GarlikCrawler/1.2 (http://garlik.com/, crawler@garlik.com)"],
   "website": {

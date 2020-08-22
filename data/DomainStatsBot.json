@@ -6,7 +6,11 @@
   "id": "DomainStatsBot",
   "known_cidrs": ["148.251.121.91/32"],
   "last_updated": "2020-08-22",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["DomainStatsBot/1.0 (https://domainstats.com/pages/our-bot)"],
   "website": {

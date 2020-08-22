@@ -1,7 +1,7 @@
 {
   "category": 99,
   "comments": "Bot of unknown origin requesting mainly non-existing URLs.",
-  "country": "",
+  "country": null,
   "description": "",
   "id": "Photon",
   "known_cidrs": [
@@ -15,7 +15,11 @@
     "195.234.109.188/32"
   ],
   "last_updated": "2020-08-18",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": null,
+    "respects": null,
+    "should": null
+  },
   "type": 99,
   "user_agents": ["Photon/1.0"],
   "website": {

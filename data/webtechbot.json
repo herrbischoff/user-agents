@@ -6,7 +6,11 @@
   "id": "webtechbot",
   "known_cidrs": ["76.217.31.195/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 0,
   "user_agents": [
     "Mozilla/5.0 (compatible; webtechbot; +https://www.webtechsurvey.com/bot)"

@@ -6,7 +6,11 @@
   "id": "NetNewsWire",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": false
+  },
   "type": 1,
   "user_agents": [
     "NetNewsWire (RSS Reader; https://ranchero.com/netnewswire/)"

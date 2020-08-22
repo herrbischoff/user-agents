@@ -6,7 +6,11 @@
   "id": "CATExplorador",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 0,
   "user_agents": [
     "CATExplorador/1.0beta (sistemes at domini dot cat; http://domini.cat/catexplorador.html)"

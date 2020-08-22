@@ -1,12 +1,16 @@
 {
   "category": 7,
   "comments": "",
-  "country": "",
+  "country": null,
   "description": "SEO company.",
   "id": "SeoChecker",
   "known_cidrs": ["51.158.23.2/32", "207.180.197.61/32", "207.180.239.89/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["Mozilla/5.0 (compatible; SeoChecker/1.1)"],
   "website": {

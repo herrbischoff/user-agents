@@ -6,7 +6,11 @@
   "id": "Integrity",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 1,
   "user_agents": [
     "Mozilla/5.0 (compatible; Integrity/8; +https://peacockmedia.software/mac/integrity/"

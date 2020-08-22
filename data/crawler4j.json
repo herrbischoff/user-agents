@@ -1,12 +1,16 @@
 {
   "category": 4,
-  "comments": "",
+  "comments": "Downloads sitemap despite rebots.txt exclusion but does not continue to crawl the site.",
   "country": "ZZ",
   "description": "Open Source Web Crawler for Java.",
   "id": "crawler4j",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": false,
+    "should": true
+  },
   "type": 1,
   "user_agents": ["crawler4j (https://github.com/yasserg/crawler4j/)"],
   "website": {

@@ -6,7 +6,11 @@
   "id": "UniversalFeedParser",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": null,
+    "respects": null,
+    "should": null
+  },
   "type": 1,
   "user_agents": [
     "UniversalFeedParser/5.2.1 +https://code.google.com/p/feedparser/"

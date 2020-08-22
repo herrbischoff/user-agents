@@ -6,7 +6,11 @@
   "id": "Googlebot-Video",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["Googlebot-Video/1.0"],
   "website": {

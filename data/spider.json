@@ -6,7 +6,11 @@
   "id": "spider",
   "known_cidrs": ["213.61.218.54/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 99,
   "user_agents": ["spider"],
   "website": {

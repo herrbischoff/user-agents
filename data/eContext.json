@@ -4,9 +4,27 @@
   "country": "US",
   "description": "Text context classification service.",
   "id": "eContext",
-  "known_cidrs": [],
+  "known_cidrs": [
+    "3.80.50.190/32",
+    "3.91.198.216/32",
+    "3.93.44.105/32",
+    "3.94.22.46/32",
+    "18.205.104.108/32",
+    "18.207.117.72/32",
+    "18.215.252.134/32",
+    "34.228.141.244/32",
+    "52.87.172.231/32",
+    "54.80.192.219/32",
+    "54.175.124.249/32",
+    "54.221.101.124/32",
+    "54.234.17.142/32"
+  ],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": true,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["eContext/1.0 (eContext Classification Engine)"],
   "website": {

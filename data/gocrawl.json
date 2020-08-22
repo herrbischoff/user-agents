@@ -6,7 +6,11 @@
   "id": "gocrawl",
   "known_cidrs": [],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 1,
   "user_agents": ["Googlebot (gocrawl v0.4)"],
   "website": {

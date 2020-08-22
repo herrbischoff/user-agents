@@ -17,6 +17,11 @@
     "207.188.146.144/32"
   ],
   "last_updated": "2020-08-06",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 0,
   "user_agents": ["AccompanyBot"],
   "website": {

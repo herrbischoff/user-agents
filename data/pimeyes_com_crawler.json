@@ -1,12 +1,16 @@
 {
   "category": 1,
-  "comments": "Does not even request robots.txt and immediately starts crawling for images.",
+  "comments": "Immediately starts crawling for images.",
   "country": "US",
   "description": "PimEyes is an advanced tool that will help you find the face you are looking for in the Internet. This is possible thanks to the latest technology - face recognition combined with power of machine learning.",
   "id": "pimeyes.com crawler",
   "known_cidrs": ["88.198.64.49/32"],
   "last_updated": "2020-08-18",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
   "type": 2,
   "user_agents": ["pimeyes.com crawler"],
   "website": {

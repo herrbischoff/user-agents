@@ -6,7 +6,11 @@
   "id": "DuckDuckGo-Favicons-Bot",
   "known_cidrs": ["40.88.21.235/32", "54.208.102.37/32", "107.21.1.8/32"],
   "last_updated": "2020-08-06",
-  "robotstxt": "no",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": false
+  },
   "type": 0,
   "user_agents": [
     "Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)"

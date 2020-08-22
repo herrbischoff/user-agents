@@ -11,7 +11,11 @@
     "131:2a00:1a28:2101:1::16/128"
   ],
   "last_updated": "2020-08-06",
-  "robotstxt": "yes",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
   "type": 2,
   "user_agents": [
     "Mozilla/5.0 (compatible; Twingly Recon; twingly.com)",
