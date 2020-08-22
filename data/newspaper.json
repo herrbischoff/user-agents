@@ -1,0 +1,16 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "ZZ",
+  "description": "News, full-text, and article metadata extraction in Python 3.",
+  "id": "newspaper",
+  "known_cidrs": [],
+  "last_updated": "2020-08-22",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": ["newspaper/0.2.8"],
+  "website": {
+    "reachable": true,
+    "url": "https://github.com/codelucas/newspaper/"
+  }
+}
