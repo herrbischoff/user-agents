@@ -1,0 +1,16 @@
+{
+  "category": 99,
+  "comments": "",
+  "country": "ZZ",
+  "description": "",
+  "id": "MozacFetch",
+  "known_cidrs": [],
+  "last_updated": "2020-08-22",
+  "robotstxt": "yes",
+  "type": 99,
+  "user_agents": ["MozacFetch/52.0.3"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}
