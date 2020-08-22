@@ -1,0 +1,16 @@
+{
+  "category": 7,
+  "comments": "It appears to be a rather shady SEO operation.",
+  "country": "CY",
+  "description": "Domainstats is all about displaying important information quickly so that conclusions can be drawn within seconds.",
+  "id": "DomainStatsBot",
+  "known_cidrs": ["148.251.121.91/32"],
+  "last_updated": "2020-08-22",
+  "robotstxt": "yes",
+  "type": 2,
+  "user_agents": ["DomainStatsBot/1.0 (https://domainstats.com/pages/our-bot)"],
+  "website": {
+    "reachable": true,
+    "url": "https://domainstats.com/pages/our-bot"
+  }
+}
