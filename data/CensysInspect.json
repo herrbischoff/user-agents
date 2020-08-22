@@ -1,0 +1,18 @@
+{
+  "category": 8,
+  "comments": "",
+  "country": "",
+  "description": "Censys is a platform that helps information security practitioners discover, monitor, and analyze devices that are accessible from the Internet. We regularly probe every public IP address and popular domain names, curate and enrich the resulting data, and make it intelligible through an interactive search engine and API.",
+  "id": "CensysInspect",
+  "known_cidrs": ["162.142.125.0/24", "192.35.168.0/23"],
+  "last_updated": "2020-08-22",
+  "robotstxt": "no",
+  "type": 0,
+  "user_agents": [
+    "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"
+  ],
+  "website": {
+    "reachable": true,
+    "url": "https://about.censys.io/"
+  }
+}
