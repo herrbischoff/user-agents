@@ -1,0 +1,16 @@
+{
+  "category": 9,
+  "comments": "",
+  "country": "ZZ",
+  "description": "Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator.",
+  "id": "Tiny Tiny RSS",
+  "known_cidrs": [],
+  "last_updated": "2020-08-22",
+  "robotstxt": "no",
+  "type": 1,
+  "user_agents": ["Tiny Tiny RSS/18.8 (5f66f87) (http://tt-rss.org/)"],
+  "website": {
+    "reachable": true,
+    "url": "http://tt-rss.org/"
+  }
+}
