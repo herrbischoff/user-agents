@@ -1,8 +1,8 @@
 {
   "category": 99,
-  "comments": "IPs appear to be exclusively AWS instances. The listed email address is unresponsive.",
+  "comments": "IPs appear to be exclusively AWS instances. The listed email address is unresponsive. The information about the crawler was obtained via an AWS abuse report.",
   "country": "US",
-  "description": "",
+  "description": "A crawler operated by Nokia Deepfield called \"Cloud Genome\".",
   "id": "Cloud mapping experiment",
   "known_cidrs": [
     "3.81.69.127/32",
