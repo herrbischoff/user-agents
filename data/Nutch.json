@@ -1,0 +1,20 @@
+{
+  "category": 0,
+  "comments": "Clumsily attempts to impersonate Googlebot.",
+  "country": "DE",
+  "description": "Search engine with unclear purpose. Appears to be largely abandoned.",
+  "id": "Nutch",
+  "known_cidrs": ["88.99.64.133/32"],
+  "last_updated": "2020-08-26",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
+  "type": 2,
+  "user_agents": ["googlebot/Nutch-1.16 (pilican.com; bot@pilican.com)"],
+  "website": {
+    "reachable": true,
+    "url": "https://pilican.com"
+  }
+}
