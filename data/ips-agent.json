@@ -1,8 +1,8 @@
 {
-  "category": 99,
+  "category": 2,
   "comments": "",
-  "country": "RU",
-  "description": "",
+  "country": "US",
+  "description": "Operated by Verisign Labs, periodically sends out various types of DNS queries. The purpose of these queries is to make surveys of the Internet's DNS infrastructure.",
   "id": "ips-agent",
   "known_cidrs": [
     "69.58.178.28/32",
@@ -17,11 +17,11 @@
   ],
   "last_updated": "2020-08-06",
   "robotstxt": {
-    "downloads": null,
-    "respects": null,
+    "downloads": false,
+    "respects": false,
     "should": null
   },
-  "type": 99,
+  "type": 1,
   "user_agents": ["Mozilla/5.0 (compatible; ips-agent)"],
   "website": {
     "reachable": false,
