@@ -1,0 +1,20 @@
+{
+  "category": 1,
+  "comments": "",
+  "country": "US",
+  "description": "",
+  "id": "link_thumbnailer",
+  "known_cidrs": ["35.198.83.252/32"],
+  "last_updated": "2020-09-27",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
+  "type": 0,
+  "user_agents": ["link_thumbnailer"],
+  "website": {
+    "reachable": false,
+    "url": ""
+  }
+}
