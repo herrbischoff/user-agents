@@ -1,0 +1,20 @@
+{
+  "category": 1,
+  "comments": "Unclear what their goal is, almost no information on their website.",
+  "country": "GB",
+  "description": "Data mining and analysis company.",
+  "id": "PageThing",
+  "known_cidrs": ["213.168.249.115/32"],
+  "last_updated": "2020-09-28",
+  "robotstxt": {
+    "downloads": true,
+    "respects": true,
+    "should": true
+  },
+  "type": 2,
+  "user_agents": ["PageThing.com"],
+  "website": {
+    "reachable": true,
+    "url": "https://pagething.com"
+  }
+}
