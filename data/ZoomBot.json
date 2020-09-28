@@ -1,0 +1,20 @@
+{
+  "category": 7,
+  "comments": "Website maked as unreachable because no information is to be found there.",
+  "country": "",
+  "description": "",
+  "id": "ZoomBot",
+  "known_cidrs": ["18.185.137.135/32"],
+  "last_updated": "2020-09-27",
+  "robotstxt": {
+    "downloads": false,
+    "respects": false,
+    "should": true
+  },
+  "type": 0,
+  "user_agents": ["ZoomBot (Linkbot 1.0 http://suite.seozoom.it/bot.html)"],
+  "website": {
+    "reachable": false,
+    "url": "http://suite.seozoom.it/bot.html"
+  }
+}
